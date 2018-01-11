@@ -1,0 +1,17 @@
+{
+  "name": "360csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "csvtojson": "^1.1.9",
+    "lodash.chunk": "^4.2.0",
+    "superagent": "^3.8.2"
+  }
+}
